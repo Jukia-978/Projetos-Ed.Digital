@@ -4,10 +4,6 @@
 
 body {
     background-color: rbg(rgb(129, 35, 35))
-}
-
-div{ 
-    background-color: brown;
     display: flex;
     margin: 12px;
     justify-content: space-evenly;
