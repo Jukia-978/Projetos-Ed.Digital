@@ -1,16 +1,21 @@
-.foto {
-    width: 54%
-}
-
 body {
-    background-color: rbg(rgb(129, 35, 35))
-    display: flex;
-    margin: 12px;
-    justify-content: space-evenly;
-    align-items: center;
+    background-color: #cde6d0;
+    font-family: Arial, sans-serif;
+    text-align: center;
 }
 
-div{ 
-    margin: 20px;
-    padding: 20px;
+h1, h2, p {
+    color: #333;
+}
+
+.linha {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
 }
